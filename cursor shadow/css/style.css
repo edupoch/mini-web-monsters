@@ -1,0 +1,37 @@
+#square {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border: black solid 1px;
+    z-index: 50;
+    overflow: hidden;
+    
+}
+
+#square_shadow{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 220px;
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+    z-index: 40
+}
+
+#cursor_far_shadow{
+    position: absolute;
+    z-index: 30;
+    opacity: 0.5;
+    display:none;
+}
+
+#cursor_close_shadow{
+    position: absolute; 
+    z-index: 80; 
+    opacity: 1;
+    display:none;
+}
+
