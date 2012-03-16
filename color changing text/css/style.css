@@ -1,0 +1,27 @@
+#black_box {
+    position: absolute;
+    left: 520px;
+    top: 300px;
+    width: 200px;
+    height: 100px;
+    background: #000;
+    color: #fff
+}
+
+.visible_text{
+    position: absolute;
+    left: 500px;
+    top: 300px;
+    border: 1px solid #000;
+    width: 150px;
+    height: 50px
+}
+
+.inner_text{
+    border: 1px solid #000;
+    width: 150px;
+    height: 50px;
+    margin-left: -20px;
+    color: #fff
+}
+

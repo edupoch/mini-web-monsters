@@ -1,0 +1,10 @@
+#square {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border: black solid 1px;
+}
+
